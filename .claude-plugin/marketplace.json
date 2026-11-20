@@ -1,0 +1,16 @@
+{
+  "name": "samarjeet-singh-stack",
+  "owner": { "name": "Samarjeet Singh" },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": { "source": "github", "repo": "addyosmani/agent-skills" },
+      "description": "Structured engineering workflows: spec, plan, build, review, ship"
+    },
+    {
+      "name": "ponytail",
+      "source": { "source": "github", "repo": "dietrichgebert/ponytail" },
+      "description": "Forces the simplest, shortest solution that works"
+    }
+  ]
+}
